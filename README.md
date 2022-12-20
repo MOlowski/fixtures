@@ -21,9 +21,9 @@ Project contains getting fixtures from https://www.api-football.com/ by python s
 
 5. Open nifi web site in http://localhost:8443/nifi/
 
-![App Screenshot](https://raw.githubusercontent.com/MOlowski/fixtures/master/media/nifi.png)
-
 6. Upload nifi template
+
+![App Screenshot](https://raw.githubusercontent.com/MOlowski/fixtures/master/media/nifi.png)
 
 7. Start the project
 
